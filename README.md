@@ -1,3 +1,5 @@
+A simple BMI Calculator app built with React and Ionic framework
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
